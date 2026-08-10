@@ -7,7 +7,7 @@ hero:
   text: "高效简洁还有质量"
   tagline: 一个集功能工具、网站发现、资源导航与自由社区于一体的数字空间。
   image:
-    src: /screenshots/app-icon.png
+    src: https://img.wanonly.top/file/fEz6Rr
     alt: 晚的空间
   actions:
     - theme: brand
