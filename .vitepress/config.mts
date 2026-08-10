@@ -7,7 +7,7 @@ export default defineConfig({
   lang: 'zh-CN',
   base: '/wan-space/',
   themeConfig: {
-    logo: '/app-icon.png',
+    logo: 'https://img.wanonly.top/file/fEz6Rr',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '🏠 首页', link: '/' },
