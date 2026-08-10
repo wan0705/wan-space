@@ -5,6 +5,7 @@ export default defineConfig({
   title: "晚的空间",
   description: "高效简洁还有质量",
   lang: 'zh-CN',
+  base: '/wan-space/'
   themeConfig: {
     logo: '/app-icon.png',
     // https://vitepress.dev/reference/default-theme-config
