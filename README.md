@@ -3,8 +3,8 @@
 > **高效 · 简洁 · 还有质量**
 > 一个集功能工具、网站发现、资源导航与自由社区于一体的数字空间。
 
-![version](https://img.shields.io/badge/version-1.0.0%20(202600806)-blueviolet)
-![platform](https://img.shields.io/badge/platform-Android%2FWeb-1E90FF)
+![version](https://img.shields.io/badge/version-1.0.1%20(20260925)-blueviolet)
+![platform](https://img.shields.io/badge/platform-Android-1E90FF)
 ![style](https://img.shields.io/badge/style-简洁高效-00C48C)
 
 ---
@@ -55,7 +55,7 @@
 - 随时浏览、随时回来
 
 ### ℹ️ 关于 · About
-- 版本信息：`1.0.0 (202600806)`
+- 版本信息：`1.0.1 (202600925)`
 - 检查更新 · 官方群聊 · 分享应用 · 软件设置
 
 ---
@@ -64,10 +64,10 @@
 
 | 项目 | 说明 |
 | :--- | :--- |
-| 当前版本 | `1.0.0 (202600806)` |
+| 当前版本 | `1.0.1 (20260925)` |
 | 软件口号 | 高效 · 简洁 · 还有质量 |
 | 应用类型 | 工具箱软件 |
-| 适配平台 | Android / Web |
+| 适配平台 | Android |
 
 ---
 
@@ -81,7 +81,7 @@
 
 ## 📦 更新日志
 
-### v1.0.0 (202600806)
+### v1.0.1 (20260925)
 - 🎉 首个正式版本发布
 - 🧩 上线首页、工具、收藏、关于四大板块
 - 🌐 基于 VitePress 构建官网，响应式适配
