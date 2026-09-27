@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.wanonly.top/file/fEz6Rr" alt="晚的空间 Logo" width="128">
+  <img src="https://s41.ax1x.com/2026/09/27/pn3hwfx.png" alt="晚的空间 Logo" width="128">
   <h1>晚的空间 · wan-Space</h1>
   <p><strong>高效 · 简洁 · 还有质量</strong></p>
   <p>一个集功能工具、网站发现、资源导航与自由社区于一体的数字空间。</p>
