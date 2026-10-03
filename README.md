@@ -108,4 +108,4 @@
 ## 赞助我
 [爱发电链接](https://afdian.com/a/wan_official)
 
-![赞助图片](https://img.wanonly.top/file/AgACAgUAAyEGAATTPLHCAAMGajVHLyHeApAdo4vtp6pVFHVyFlcAAp0Qaxv5pahVSV76b6Di2IUBAAMCAAN4AAM8BA.png)
+![赞助图片](https://s41.ax1x.com/2026/10/03/pnJhzLT.png)
